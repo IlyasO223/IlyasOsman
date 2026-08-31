@@ -1,2 +1,0 @@
-# IlyasOsman
-Personal Project
